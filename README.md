@@ -14,7 +14,7 @@ Icon | Character | Text
 ![High Priestess](https://wiki.bloodontheclocktower.com/images/6/63/Icon_highpriestess.png) | **High Priestess** | Each night, learn which player the Storyteller believes you should talk to most.
 ![General](https://wiki.bloodontheclocktower.com/images/9/99/Icon_general.png) | **General** | Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither.
 ![Village Idiot](https://wiki.bloodontheclocktower.com/images/d/da/Icon_villageidiot.png) | **Village Idiot** | Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]
-![Town Crier](https://wiki.bloodontheclocktower.com/images/e/ef/Icon_towncrier.png) | **Town Crier** | Each night/*, you learn if a Minion nominated today.
+![Town Crier](https://wiki.bloodontheclocktower.com/images/e/ef/Icon_towncrier.png) | **Town Crier** | Each night\*, you learn if a Minion nominated today.
 ![Seamstress](https://wiki.bloodontheclocktower.com/images/5/53/Icon_seamstress.png) | **Seamstress** | Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment.
 ![Artist](https://wiki.bloodontheclocktower.com/images/1/1a/Icon_artist.png) | **Artist** | Once per game, during the day, privately ask the Storyteller any yes/no question.
 ![Soldier](https://wiki.bloodontheclocktower.com/images/c/c3/Icon_soldier.png) | **Soldier** | You are safe from the Demon.
@@ -45,8 +45,8 @@ Icon | Character | Text
 
 Icon | Character | Text
 --- | --- | ---
-![No Dashii](https://wiki.bloodontheclocktower.com/images/e/eb/Icon_nodashii.png) | **No Dashii** | Each night/*, choose a player: they die. Your 2 Townsfolk neighbors are poisoned.
-![Al-Hadikhia](https://wiki.bloodontheclocktower.com/images/1/18/Icon_alhadikhia.png) | **Al-Hadikhia** | Each night/*, choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.
-![Vortox](https://wiki.bloodontheclocktower.com/images/8/89/Icon_vortox.png) | **Vortox** | Each night/*, choose a player; they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.
+![No Dashii](https://wiki.bloodontheclocktower.com/images/e/eb/Icon_nodashii.png) | **No Dashii** | Each night\*, choose a player: they die. Your 2 Townsfolk neighbors are poisoned.
+![Al-Hadikhia](https://wiki.bloodontheclocktower.com/images/1/18/Icon_alhadikhia.png) | **Al-Hadikhia** | Each night\*, choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.
+![Vortox](https://wiki.bloodontheclocktower.com/images/8/89/Icon_vortox.png) | **Vortox** | Each night\*, choose a player; they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.
 ![Lord of Typhon](https://wiki.bloodontheclocktower.com/images/c/cf/Icon_lordoftyphon.png) | **Lord of Typhon** | Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? to +? Outsiders]
 
