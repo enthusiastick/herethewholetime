@@ -37,6 +37,7 @@ Icon | Character | Text
 --- | --- | ---
 ![Mezepheles](https://wiki.bloodontheclocktower.com/images/f/f2/Icon_mezepheles.png) | **Mezepheles** | You start knowing a secret word. The 1st good player to say this word becomes evil that night.
 ![Poisoner](https://wiki.bloodontheclocktower.com/images/b/b1/Icon_poisoner.png) | **Poisoner** | Each night, choose a player: they are poisoned tonight and tomorrow day.
+![Scarlet Woman](https://wiki.bloodontheclocktower.com/images/1/13/Icon_scarletwoman.png) | **Scarlet Woman** | If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count)
 ![Organ Grinder](https://wiki.bloodontheclocktower.com/images/6/61/Icon_organgrinder.png) | **Organ Grinder** | All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not.
 ![Boffin](https://wiki.bloodontheclocktower.com/images/e/e0/Icon_boffin.png) | **Boffin** | The Demon (even if drunk or poisoned) has a not-in-play good character's ability. You both know which.
 
